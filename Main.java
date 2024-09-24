@@ -7,5 +7,6 @@ public static void main(String[] args) {
     System.out.println("new branch");
     System.out.println("new test branch");
     System.out.println("new test branch 3");
+    System.out.println("new test branch 4");
 }
 }
